@@ -1,0 +1,17 @@
+<html>
+<head>
+  <meta http-equiv="Content-type" content="html/text" charset="utf-8">
+  <title>第一个GitHub页面</title>
+  <style>
+    .newh1 {
+              font-size:16px;
+              color:#66ccff;
+              text-align:center;
+            }
+ 
+  </style>
+</head>
+<body>
+  <h1 class="newh1">一个简单的页面,Hello,wordl,it's from GitHub ling0320/yang emit in html.</h1>
+</body>
+</html>   
